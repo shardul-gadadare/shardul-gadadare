@@ -27,6 +27,9 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
       </ul>
     </small>
 </div>
+
+---
+
 <!--
 **shardul-gadadare/shardul-gadadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
