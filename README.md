@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/praneet-naik-2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pn3270rit.g.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+
+I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s in Computer Science at RIT**. I love building scalable systems, automating development workflows, and designing cloud-native architectures that actually solve real-world problems.
+
+---
 <!--
 **shardul-gadadare/shardul-gadadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
