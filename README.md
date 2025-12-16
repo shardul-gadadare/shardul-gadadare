@@ -11,6 +11,22 @@
 I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s in Computer Science at RIT**. I love building scalable systems, automating development workflows, and designing cloud-native architectures that actually solve real-world problems.
 
 ---
+
+<div>
+    <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
+    <small>
+      <ul>
+        <li>🎓 Graduate student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b>.</li>
+        <li>💼 Former **Software Engineer @ Vodafone** (Devops Engineer, ServiceNow automation, platform engineering)</li>
+        <li>❤️ Passionate about **Cloud Architecture, DevOps, Serverless, and CI/CD automation**</li>
+        <li>🌱 Am currently learning more about <b>Containerization & Middleware</b>.</li>
+        <li>🔭 I have a deep interest in CloudOps, Automation & Fitness.</li>
+        <li>🧩 I enjoy working across the stack — Frontend → Backend → Cloud → Automation</li>
+        <li>⚡ Fun fact: I enjoy Strength training and Cooking.</li>
+        <li>📫 You can reach out to me at: <a href="pn3270@rit.edu">Email ID</a></li>
+      </ul>
+    </small>
+</div>
 <!--
 **shardul-gadadare/shardul-gadadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
