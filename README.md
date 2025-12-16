@@ -88,6 +88,10 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hyperglance-025D8C?style=for-the-badge&logoColor=white" alt="Hyperglance"></a>
   </p>
+
+---
+
+
 <!--
 **shardul-gadadare/shardul-gadadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
