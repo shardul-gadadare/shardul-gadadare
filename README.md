@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center" style="font-family: Cambria;">
+  <b>Hey folks!, Shardul here.</b>
+  <img src="Hi.gif" width="30px">
+</h1>
 
 <!--
 **shardul-gadadare/shardul-gadadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
