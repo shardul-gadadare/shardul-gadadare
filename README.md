@@ -7,7 +7,7 @@
   <a href="mailto:scg6975@rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-I'm a **Software Engineer** I enjoy building scalable software, improving performance and reliability, and delivering end-to-end features; often working across backend services, cloud infrastructure, and modern web applications to solve real-world problems.
+I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at RIT**. I enjoy building scalable software, improving performance and reliability, and delivering end-to-end features; often working across backend services, cloud infrastructure, and modern web applications to solve real-world problems.
 
 ---
 
