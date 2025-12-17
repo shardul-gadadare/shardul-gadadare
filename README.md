@@ -16,7 +16,7 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
     <small>
       <ul>
         <li>🎓 Graduate student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b></li>
-        <li>💼 Former <b>Software Engineer @ Conizant & Siemens</b> (Devops Engineer, ServiceNow automation, platform engineering)</li>
+        <li>💼 Former <b>Software Engineer @ Conizant & Siemens</b> (Frontend optimization, Backend APIs, CI/CD & test automation)</li>
         <li>❤️ Passionate about <b>Cloud Architecture, DevOps, Serverless, and CI/CD automation</b></li>
         <li>🌱 Am currently learning more about <b>Containerization & Middleware</b></li>
         <li>🔭 I have a deep interest in CloudOps, Automation & Fitness</li>
