@@ -74,10 +74,19 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
 ---
 
 <h3 style="font-family: Cambria; font-size: 16px">Experience Snapshot:</h3>
-<h4>Siemens:</h4>
-
 <h4>Cognizant:</h4>
-
+  <small>
+      <ul>
+        <li>Delivered full-stack features across Python, React, and Linux-based C/C++ services, modernized the Cognizant ONE frontend to boost engagement and uptime, and built scalable APIs with CI/CD and automated testing to improve reliability and performance.</li>
+      </ul>
+    </small>
+<h4>Siemens:</h4>
+  <small>
+      <ul>
+        <li>Led IoT prototype development with Python and embedded platforms (ARM, Arduino, Raspberry Pi), designing automated production systems that improved operational efficiency and reduced deployment time through real-time, hardware-integrated solutions.</li>
+      </ul>
+    </small>
+    
 ---
 
 <h3 style="font-family: Cambria; font-size: 16px">What I’m Learning Now:</h3>
