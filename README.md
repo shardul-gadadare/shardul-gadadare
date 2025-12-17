@@ -22,7 +22,7 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
         <li>🔭 I have a deep interest in CloudOps, Automation & Fitness.</li>
         <li>🧩 I enjoy working across the stack — Frontend → Backend → Cloud → Automation</li>
         <li>⚡ Fun fact: I enjoy Strength training and Cooking.</li>
-        <li>📫 You can reach out to me at: <a href="scg6975@rit.edu">Email ID</a></li>
+        <li>📫 You can reach out to me at: <a href="mailto:scg6975@rit.edu">Email ID</a></li>
       </ul>
     </small>
 </div>
