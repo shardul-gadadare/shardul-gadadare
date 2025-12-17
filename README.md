@@ -15,13 +15,13 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
     <h3 style="font-family: Cambria; font-size: 16px;">About Me:</h3>
     <small>
       <ul>
-        <li>🎓 Graduate student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b>.</li>
+        <li>🎓 Graduate student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b></li>
         <li>💼 Former <b>Software Engineer @ Conizant & Siemens</b> (Devops Engineer, ServiceNow automation, platform engineering)</li>
         <li>❤️ Passionate about <b>Cloud Architecture, DevOps, Serverless, and CI/CD automation</b></li>
-        <li>🌱 Am currently learning more about <b>Containerization & Middleware</b>.</li>
-        <li>🔭 I have a deep interest in CloudOps, Automation & Fitness.</li>
+        <li>🌱 Am currently learning more about <b>Containerization & Middleware</b></li>
+        <li>🔭 I have a deep interest in CloudOps, Automation & Fitness</li>
         <li>🧩 I enjoy working across the stack — Frontend → Backend → Cloud → Automation</li>
-        <li>⚡ Fun fact: I enjoy Hybrid training and Cooking.</li>
+        <li>⚡ Fun fact: I enjoy Hybrid training and Cooking</li>
         <li>📫 You can reach out to me at: <a href="mailto:scg6975@rit.edu">Email ID</a></li>
       </ul>
     </small>
