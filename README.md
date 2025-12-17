@@ -40,8 +40,8 @@ I'm a **Software Engineer & Cloud/DevOps enthusiast** pursuing my **Master’s i
 <h4>Frameworks & Packages:</h4>
 <p align="left"> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NodeJS"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="REST APIs"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="REST APIs"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/BeautifulSoup-66CC99?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"></a>
