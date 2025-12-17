@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: Cambria;">
-  <b>Hey folks! Shardul here.</b>
+  <b>Hey folks! Shardul here</b>
   <img src="Hi.gif" width="30px">
 </h1>
 <p align="center">
