@@ -90,7 +90,15 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
 ---
 
 <h3 style="font-family: Cambria; font-size: 16px">What I’m Learning Now:</h3>
-
+  <small>
+      <ul>
+        <li>Deepening full-stack patterns with React and Python/Java services</li>
+        <li>Exploring advanced serverless and event-driven designs with AWS Lambda, API Gateway, and DynamoDB</li>
+        <li>Strengthening infrastructure-as-code & CI/CD automation with GitHub Actions, Docker, and Terraform for multi-environment pipelines</li>
+        <li>Preparing for the AWS Solutions Architect certification with a focus on VPC/networking, security, RDS/S3, and cost-optimized architectures</li>
+      </ul>
+  </small>
+  
 ---
 
 <h3 style="font-family: Cambria; font-size: 16px">🤝 Let’s Connect:</h3>
