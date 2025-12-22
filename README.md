@@ -18,7 +18,7 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
         <li>🎓 Graduate student pursuing Masters in Software Engineering @<b>Rochester Institute of Technology</b></li>
         <li>💼 Former <b>Software Engineer @ Conizant & Siemens</b> (Frontend optimization, Backend APIs, CI/CD & test automation)</li>
         <li>❤️ Passionate about <b>full-stack engineering, cloud platforms & end-to-end automation</b></li>
-        <li>🌱 Am currently learning more about <b>Containerization & Middleware</b></li>
+        <li>🌱 Currently diving deeper into <b>full-stack cloud architecture, serverless AWS patterns, and automated IaC/CI/CD workflows</b></li>
         <li>🔭 I have a deep interest in <b>scalable software design, cloud-native systems & fitness</b></li>
         <li>🧩 I enjoy working across the stack — Frontend → Backend → Cloud → Automation</li>
         <li>⚡ Fun fact: I enjoy Hybrid training and Cooking</li>
