@@ -36,6 +36,7 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/YAML-CCCCCC?style=for-the-badge&logo=yaml&logoColor=black" alt="YAML"></a>
 </p>
 <h4>Frameworks & Packages:</h4>
 <p align="left"> 
