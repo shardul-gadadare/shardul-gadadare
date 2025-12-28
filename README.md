@@ -3,7 +3,7 @@
   <img src="Hi.gif" width="30px">
 </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shardul-gadadare-6a87a8173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shardul-gadadare/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:scg6975@rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -104,7 +104,7 @@ I'm a **Software Engineer** pursuing my **Master’s in Software Engineering at 
 
 <h3 style="font-family: Cambria; font-size: 16px">🤝 Let’s Connect:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shardul-gadadare-6a87a8173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shardul-gadadare/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mailto:scg6975@rit.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
